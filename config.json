@@ -1,0 +1,4 @@
+{
+    "input": "input_graph.txt",
+    "graph_drawings_library": "./graph_drawings/"
+}
